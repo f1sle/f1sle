@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Alex Lebedev and I'm Software Developer, glad to see you here
+## My name is Alex Lebedev and I'm glad to see you here
 
 ### Looking for an opportunities as a Frontend Developer (React)
 
