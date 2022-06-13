@@ -3,9 +3,9 @@
 
 
 - I'm currently crushing CodeWars & LeetCode problems:<br/>
-[![image](https://user-images.githubusercontent.com/39921649/173447253-e1af43b9-42eb-4680-b09a-43d879f6e9b4.png)
-](https://www.codewars.com/users/f1sle/badges/large)
-[![LeetCode user f1sle](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ff1sle&logo=leetcode&logoColor=yellow)](https://leetcode.com/f1sle/)
+[![image](https://user-images.githubusercontent.com/39921649/173447758-04ecabc2-b163-46e3-9bf0-5050f40dee55.png)
+](https://www.codewars.com/users/f1sle/badges/large)<br/>
+[![LeetCode user f1sle](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ff1sle&logo=leetcode&logoColor=yellow)](https://leetcode.com/f1sle/)<br/>
 <!--
 **f1sle/f1sle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
