@@ -3,7 +3,8 @@
 
 
 - I'm currently crushing CodeWars & LeetCode problems:
-https://www.codewars.com/users/f1sle/badges/large
+[![image](https://user-images.githubusercontent.com/39921649/173447253-e1af43b9-42eb-4680-b09a-43d879f6e9b4.png)
+](https://www.codewars.com/users/f1sle/badges/large)
 
 <!--
 **f1sle/f1sle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
