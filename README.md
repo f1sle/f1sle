@@ -20,6 +20,6 @@ Study for some certifications:
 - E-mail: [jobs@alex-lebe.dev](mailto:jobs@alex-lebe.dev)
 
 I'm currently crushing CodeWars & LeetCode problems:<br/>
-[![image](https://user-images.githubusercontent.com/39921649/173447758-04ecabc2-b163-46e3-9bf0-5050f40dee55.png)
-](https://www.codewars.com/users/f1sle/badges/large)<br/>
+[![image](https://user-images.githubusercontent.com/39921649/174706487-14259163-d3ae-4e5b-98e3-8128a16020a9.png)
+](https://www.codewars.com/users/f1sle)<br/>
 [![LeetCode user f1sle](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ff1sle&logo=leetcode&logoColor=yellow)](https://leetcode.com/f1sle/)<br/>
